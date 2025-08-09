@@ -1,6 +1,4 @@
-Here’s your **ready-to-copy** README.md:
 
----
 
 # 💰 Expense Tracker - Java Mini Project
 
