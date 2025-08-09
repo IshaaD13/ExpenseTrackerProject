@@ -100,6 +100,6 @@ Expense added.
 
 **Isha Deshpande**
 📧 [deshpandeisha07@gmail.com](mailto:deshpandeisha07@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/deshpande-isha)
+🔗 [LinkedIn]((https://www.linkedin.com/in/deshpande-isha/))
 
 
